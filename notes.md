@@ -18,6 +18,13 @@ Note the distinction that B.V. makes between the following forms of representati
   - Symbolic
 
 
+## Skim
+
+* [Learnable Programming](http://worrydream.com/LearnableProgramming/)
+
+* [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)
+
+
 ## Read
 
 * [Preface](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-7.html#%_chap_Temp_4) of [SICP](http://mitpress.mit.edu/sicp/full-text/book/book.html)
@@ -27,13 +34,6 @@ Note the distinction that B.V. makes between the following forms of representati
 * Short description of [literate CoffeeScript](http://ashkenas.com/literate-coffeescript/)
 
 * First three chapters of this [D3 Book](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
-
-
-## Skim
-
-* [Learnable Programming](http://worrydream.com/LearnableProgramming/)
-
-* [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)
 
 
 ## Peruse
