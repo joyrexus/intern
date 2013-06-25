@@ -4,19 +4,14 @@ Summer Intenship 2013
 
 ## Aims
 
-Our main objective this summer will be to introduce you to the basic tooling and practices of *literate scripting*.  Beyond that, we hope to expose you to some of the work
-we're doing in the design of perceptual interfaces.
+Our main objective this summer will be to introduce you to the basic tooling and practices of **literate scripting** and **algorithmic visualization**.  Beyond that, we hope to expose you to some of the work we're doing in the design of perceptual interfaces.
 
 
 ## Watch
 
-* [Intro to CS212](https://www.udacity.com/course/cs212)
-
-* [Intro to CS271](https://www.udacity.com/course/cs271)
-
 * [Media for thinking the unthinkable](http://vimeo.com/67076984)
 
-Note the distinction that B.V. makes (following Bruner and Piaget) between the following forms of representation:
+Note the distinction that B.V. makes between the following forms of representation:
 
   - Enactive
   - Iconic
@@ -25,7 +20,7 @@ Note the distinction that B.V. makes (following Bruner and Piaget) between the f
 
 ## Read
 
-* Forward and prefaces of [SICP](http://mitpress.mit.edu/sicp/full-text/book/book.html)
+* [Preface](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-7.html#%_chap_Temp_4) of [SICP](http://mitpress.mit.edu/sicp/full-text/book/book.html)
 
 * Preface and intro to [The Nature of Code](http://natureofcode.com/book/)
 
@@ -34,29 +29,57 @@ Note the distinction that B.V. makes (following Bruner and Piaget) between the f
 * First three chapters of this [D3 Book](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
 
+## Skim
+
+* [Learnable Programming](http://worrydream.com/LearnableProgramming/)
+
+* [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)
+
+
+## Peruse
+
+* [joyrexus.github.io](http://joyrexus.github.io/)
+
+* [bl.ocks](http://bl.ocks.org/mbostock)
+
+  * [convex hull](http://bl.ocks.org/mbostock/4341699)
+
+  * [closest point](http://bl.ocks.org/mbostock/4281513)
+
+  * [intersection detection](http://bl.ocks.org/mbostock/4218871)
+
+* [Mike Bostock](http://bost.ocks.org/mike/)
+
+  * [fisher-yates shuffle](http://bost.ocks.org/mike/shuffle/)
+
+  * [3 little circles](http://mbostock.github.io/d3/tutorial/circle.html)
+
+* [Jason Davies](http://www.jasondavies.com/)
+
+  * [set partitions](http://www.jasondavies.com/set-partitions/)
+
+  * [factorisation diagrams](http://www.jasondavies.com/factorisation-diagrams/)
+
+
+---
+
+
 ## Tools
 
 * [CoffeeScript](http://coffeescript.org)
 
 * [Node](http://nodejs.org/)
 
-* [svg.js](http://documentup.com/wout/svg.js)
-
 * [D3](http://d3js.org/)
 
-
-## Peruse
-
-Links at [joyrexus.github.io](http://joyrexus.github.io/)
-
-Tutorials at [Khan Academy](https://www.khanacademy.org/cs/tutorials/programming-basics)
+* [svg.js](http://documentup.com/wout/svg.js)
 
 
 ## Project
 
-* Construct a flexagon.
+* Construct a hexaflexagon.
 
-* Write-up your own instructions for how to construct a flexagon.
+* Write-up your own instructions for how to construct a hexaflexagon.
 
 * Provide an illustrated description of this construction.
 
