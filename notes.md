@@ -1,7 +1,6 @@
 Summer Intenship 2013
 =====================
 
-Test???
 
 ## Aims
 
