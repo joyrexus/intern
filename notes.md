@@ -34,6 +34,8 @@ Note the distinction that B.V. makes between the following forms of representati
 
 * Short description of [literate CoffeeScript](http://ashkenas.com/literate-coffeescript/)
 
+* [Just enough SVG](http://macwright.org/2013/06/25/just-enough-svg.html)
+
 * First three chapters of this [D3 Book](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
 
