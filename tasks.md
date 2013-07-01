@@ -1,7 +1,7 @@
 Tasks
 =====
 
-0. Go to your cloned copy of this repo and pull the recent changes.
+First, go to your cloned copy of this repo and pull the recent changes:
 
     cd ~/Documents/Repos/intern
     git pull
