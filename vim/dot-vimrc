@@ -1,0 +1,68 @@
+syntax enable
+set wrap
+set linebreak
+set showmatch
+set ignorecase
+set smartcase
+set gdefault
+set autowrite
+set autoindent
+set shiftround
+set smartindent
+set smarttab
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set textwidth=79
+set history=20
+set fileformat=unix
+set foldmethod=indent
+set shell=/bin/bash
+set encoding=utf-8
+set hlsearch
+set incsearch
+set term=ansi
+set background=dark
+
+colorscheme solarized
+
+filetype on
+filetype indent on
+filetype plugin on
+
+" Map leader key
+let mapleader = ","
+let maplocalleader = ","
+
+nmap <Leader>p  :set invpaste<CR>:set paste?<CR>
+nmap <Leader>s  :source ~/.vimrc<CR>
+nmap <Leader>x  :!%<CR>
+
+" Use space to toggle folds
+nnoremap <space> za
+
+" Mark word under cursor as italics
+nmap <Leader>i ciw*<ESC>pa*
+
+" Mark word under cursor as bold
+nmap <Leader>b ciw**<ESC>pa**
+
+" Pull word under cursor into LHS of a substitute
+nmap <Leader>z :%s#\<<c-r>=expand("<cword>")<cr>\>#
+
+" Pull Visually Highlighted text into LHS of a substitute
+vmap <Leader>z :<C-U>%s/\<<c-r>*\>/
+
+
+iab wm! Walker Melton
+iab rm! README<CR>======<CR>
+iab readme! README<CR>======<CR>
+
+iab date! <c-r>=strftime("%m-%d-%Y")<cr>
+iab Date! *<c-r>=strftime("%m-%d-%Y")<cr>*
+iab DATE! <c-r>=strftime("%B %d, %Y")<cr>
+iab day!  <c-r>=strftime("%a")<cr>
+iab Day!  <c-r>=strftime("%A")<cr>
+iab time! <c-r>=strftime("%H:%M")<cr>
+iab timestamp! <c-r>=strftime("%H:%M %a %d %b %Y")<cr>
+
