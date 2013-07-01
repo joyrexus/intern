@@ -1,6 +1,11 @@
 Tasks
 =====
 
+0. Go to your cloned copy of this repo and pull the recent changes.
+
+    cd ~/Documents/Repos/intern
+    git pull
+
 1. Install [these](vim) vim config files. See [vim/README.md](vim/README.md).
 
 2. Install [Solarized](https://github.com/altercation/solarized/tree/master/osx-terminal.app-colors-solarized) colorscheme for your Terminal.
