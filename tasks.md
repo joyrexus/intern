@@ -1,7 +1,7 @@
 Tasks
 =====
 
-1. Install vim config files. See [vim/README.md](vim/README.md).
+1. Install [these](vim) vim config files. See [vim/README.md](vim/README.md).
 
 2. Install [Solarized](https://github.com/altercation/solarized/tree/master/osx-terminal.app-colors-solarized) colorscheme for your Terminal.
 
