@@ -4,12 +4,12 @@ Summer Intenship 2013
 
 ## Aims
 
-Our main objective this summer will be to introduce you to the basic tooling and practices of **literate scripting** and **algorithmic visualization**.  Beyond that, we hope to expose you to some of the work we're doing in the design of perceptual interfaces.
+Our main objective this summer will be to introduce you to the basic tooling and practices of **literate scripting** and **algorithmic visualization**.  For your summer project, you'll investigate a few problems in computational geometry and design a visual and/or interactive essay that illuminates solutions to these problems.
 
 
 ## Watch
 
-* [Media for thinking the unthinkable](http://vimeo.com/67076984)
+* [Media for Thinking](http://vimeo.com/67076984)
 
 Note the distinction that B.V. makes between the following forms of representation:
 
@@ -24,10 +24,10 @@ Note the distinction that B.V. makes between the following forms of representati
 
 * [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)
 
+* [Scientific Communication as Sequential Art](http://worrydream.com/ScientificCommunicationAsSequentialArt/)
+
 
 ## Read
-
-* [Preface](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-7.html#%_chap_Temp_4) of [SICP](http://mitpress.mit.edu/sicp/full-text/book/book.html)
 
 * Preface and intro to [The Nature of Code](http://natureofcode.com/book/)
 
@@ -40,8 +40,6 @@ Note the distinction that B.V. makes between the following forms of representati
 
 ## Peruse
 
-* [joyrexus.github.io](http://joyrexus.github.io/)
-
 * [bl.ocks](http://bl.ocks.org/mbostock)
 
   * [convex hull](http://bl.ocks.org/mbostock/4341699)
@@ -49,6 +47,10 @@ Note the distinction that B.V. makes between the following forms of representati
   * [closest point](http://bl.ocks.org/mbostock/4281513)
 
   * [intersection detection](http://bl.ocks.org/mbostock/4218871)
+
+  * [quad tree](http://bl.ocks.org/mbostock/4343214)
+
+  * [voronoi tesselation](http://bl.ocks.org/mbostock/4060366)
 
 * [Mike Bostock](http://bost.ocks.org/mike/)
 
@@ -72,9 +74,9 @@ Note the distinction that B.V. makes between the following forms of representati
 
 * [Node](http://nodejs.org/)
 
-* [D3](http://d3js.org/)
-
 * [svg.js](http://documentup.com/wout/svg.js)
+
+* [D3](http://d3js.org/)
 
 
 ## Project
