@@ -14,18 +14,16 @@ Tasks
 
 * Look over the four components of D3's Geometry API, [d3.geom](https://github.com/mbostock/d3/wiki/Geometry) and these related blocks:
 
-  * [Quad Tree](http://bl.ocks.org/mbostock/4343214)
-  * [Convex Hull](http://bl.ocks.org/mbostock/4341699)
-  * [Voronoi Tesselation](http://bl.ocks.org/mbostock/4060366)
-    * [Test 1](http://bl.ocks.org/mbostock/3846051)
-    * [Test 2](http://bl.ocks.org/mbostock/3962108)
-    * [Rotating](http://bl.ocks.org/mbostock/4636377)
+    * [Quad Tree](http://bl.ocks.org/mbostock/4343214)
+    * [Convex Hull](http://bl.ocks.org/mbostock/4341699)
+    * [Voronoi Tesselation](http://bl.ocks.org/mbostock/4060366)
+        * [Test 1](http://bl.ocks.org/mbostock/3846051)
+        * [Test 2](http://bl.ocks.org/mbostock/3962108)
+        * [Rotating](http://bl.ocks.org/mbostock/4636377)
+    * [Closest Point to Segment](http://bl.ocks.org/mbostock/4281513)
+    * [Circle-Polygon Intersection](http://bl.ocks.org/mbostock/4218871)
 
-  * [Closest Point to Segment](http://bl.ocks.org/mbostock/4281513)
-  * [Circle-Polygon Intersection](http://bl.ocks.org/mbostock/4218871)
-
-* Look over these algorithmic implementations and explanations of Fortune's
-  algorithm for creating a Voronoi Tessellation:
+* Look over these algorithmic implementations and explanations of Fortune's algorithm for creating a Voronoi Tessellation:
 
   * [1](http://philogb.github.io/blog/2010/02/12/voronoi-tessellation/)
   * [2](http://www.raymondhill.net/voronoi/rhill-voronoi.php)
