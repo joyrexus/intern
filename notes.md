@@ -48,6 +48,8 @@ Note the distinction that B.V. makes between the following forms of representati
 
   * [intersection detection](http://bl.ocks.org/mbostock/4218871)
 
+  * [line intersection brushing](http://bl.ocks.org/syntagmatic/5441022)
+
   * [quad tree](http://bl.ocks.org/mbostock/4343214)
 
   * [voronoi tesselation](http://bl.ocks.org/mbostock/4060366)
